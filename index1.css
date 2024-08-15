@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color: blue;
+}
+input{
+    padding: auto;
+    height: 20px;
+    border-radius: 4px;
+    width: 15rem;
+    
+}
+body #div{
+   display: inline-block;
+   border: 1px solid black;
+   height: 300px;
+   width: 300px;
+   margin:50px 600px ;
+   text-align: justify;
+   padding-left: 20px;
+   background-color: lightsteelblue;
+   border-radius: 4px;
+}
+div{
+    margin-bottom: 10px;
+}
+#div #btn{
+    background-image: linear-gradient(to right, rgba(238, 130, 238, 0.345),rgba(0, 0, 255, 0.553));
+    width: 7rem;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    text-indent: 25px;
+    border-radius: 4px; 
+}
+h1{
+    color: blueviolet;
+    
+}
